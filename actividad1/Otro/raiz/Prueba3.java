@@ -1,6 +1,6 @@
-package raiz;
+package Otro.raiz;
 
-import src.libs.Prueba2;
+import fuentes.modulo2.Prueba2;
 
 public class Prueba3 {
 	public static void main(String[] args) {
