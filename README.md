@@ -23,4 +23,4 @@ Ejecutamos la compilación al .java ubicado en la ruta: fuentes/modulo1/Prueba1.
 #### `javac -cp . Otro/raiz/Prueba3.java`
 
 ### Ejecutar
-## `java Otro.raiz.Prueba3`
+#### `java Otro.raiz.Prueba3`
