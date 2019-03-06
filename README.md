@@ -3,14 +3,14 @@ Nos ubicamos en la carpeta raiz que es actividad1.
 
 Ejecutamos la compilación al .java ubicado en la ruta: fuentes/modulo1/Prueba1.java
 
-## Compilar
-# `javac -cp . fuentes/modulo1/Prueba1.java`
+### Compilar
+#### `javac -cp . fuentes/modulo1/Prueba1.java`
 
-## Ejecutar
-# `java fuentes.modulo1.Prueba1`
+### Ejecutar
+#### `java fuentes.modulo1.Prueba1`
 
-## Generar .jar
-# `jar cmf MANIFEST.mf libreriacomun.jar fuentes/modulo1/Prueba1.class fuentes/modulo2/Prueba2.class`
+### Generar .jar
+#### `jar cmf MANIFEST.mf libreriacomun.jar fuentes/modulo1/Prueba1.class fuentes/modulo2/Prueba2.class`
 
-## Ejecutar .jar
-# `java -jar libreriacomun.jar`
+### Ejecutar .jar
+#### `java -jar libreriacomun.jar`
